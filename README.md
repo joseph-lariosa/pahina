@@ -1,5 +1,6 @@
-# Demo (https://josephlariosa.com/demo/themes/static/pahina)
+# Demo
 https://josephlariosa.com/demo/themes/static/pahina
+
 # Pahina
 Pahina is a Bootstrap 4 Starter Theme with SaSS
 
