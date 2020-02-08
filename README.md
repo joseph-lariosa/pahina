@@ -11,7 +11,7 @@ Or download as zip and extract everything to your project folder.
 
 # Installing Dependencies
 Make sure you have installed Node.js and Browser-Sync (optional) on your computer globally
-Then open your terminal and browse to the location of your UnderStrap copy
+Then open your terminal and browse to the location of your project
 
 Run: `$ npm install`
 
