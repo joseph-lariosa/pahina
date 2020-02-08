@@ -1,5 +1,5 @@
 # Pahina
-Bootstrap 4 based starter theme framework
+Pahina is a Bootstrap 4 Starter Theme with SaSS
 
 # About
 Bootsrap theming made easier using SaSS
@@ -26,7 +26,7 @@ First change the browser-sync options to reflect your environment in the file /g
 
 `{
     "browserSyncOptions" : {
-        "proxy": "localhost/theme_test/", // <----- CHANGE HERE
+        "proxy": "localhost/*", // <----- CHANGE HERE
         "notify": false
     },
     ...
