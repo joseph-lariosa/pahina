@@ -5,7 +5,7 @@ Pahina is a Bootstrap 4 Starter Theme with SaSS
 Bootsrap theming made easier using SaSS
 
 # Installation
-Run: `$ git clone https://github.com/joseph-lariosa/pahina-private.git`
+Run: `$ git clone https://github.com/joseph-lariosa/pahina.git`
 
 Or download as zip and extract everything to your project folder.
 
